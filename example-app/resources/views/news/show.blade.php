@@ -2,6 +2,7 @@
 
 @section('content')
     <h1>{{ $newsItem->title }}</h1>
+    <h2>проверка гита</h2>
     <p>{{ $newsItem->content }}</p>
 
     <div class="actions">
